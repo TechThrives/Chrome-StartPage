@@ -211,7 +211,7 @@ export default function StartPage() {
         // after some time hover effect
           className="w-12 h-12 flex items-center justify-center rounded-full bg-white/10 hover:bg-white/20 transition-colors"
           aria-label="Github"
-          onClick={() => window.open("https://github.com/abhishekpj/abhishekpj", "_blank")}
+          onClick={() => window.open("https://github.com/TechThrives/Chrome-StartPage", "_blank")}
         >
           <Icon icon="bi:github" className="text-2xl" />
         </button>
